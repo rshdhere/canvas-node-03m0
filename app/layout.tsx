@@ -6,8 +6,8 @@ import { cn } from "@/lib/utils";
 const geist = Geist({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "canvas-node-03m0",
-  description: "make me a todo-app using nextjs",
+  title: "Focus list — Todo",
+  description: "A simple Next.js todo app to capture and complete tasks.",
 };
 
 export default function RootLayout({
